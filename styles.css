@@ -1,0 +1,41 @@
+/* Style for main content */
+main {
+    max-width: 800px;
+    margin: auto;
+    padding: 20px;
+}
+
+/* Style for profile image inside main */
+main img {
+    width: 300px;
+    height: auto;
+    border-radius: 8px;
+}
+
+/* Style for aside element */
+aside {
+    width: 300px;
+    margin: 20px auto;
+    padding: 10px;
+    border: 1px solid #ccc;
+    background-color: #f0f0f0;
+    color: #333;
+}
+
+/* Style for image inside aside */
+aside img {
+    width: 300px;
+}
+
+/* Style for all paragraph tags */
+p {
+    padding: 0;
+}
+
+/* Style for footer */
+footer {
+    margin-top: 20px;
+    border-top: 1px solid #ccc;
+    text-align: center;
+    padding-top: 10px;
+}
